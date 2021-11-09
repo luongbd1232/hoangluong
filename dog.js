@@ -7,7 +7,4 @@ function dog()
 dog.prototype.eat=function(cat){
 this.stomach.push(cat);
 };
-=======
-    
-}
->>>>>>> feature/dog-class
+feature/dog-class
